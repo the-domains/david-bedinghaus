@@ -4,7 +4,7 @@
         <description><![CDATA[David Bedinghaus]]></description>
         <link>https://thegrid.ai/david-bedinghaus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 14:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 14:39:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/david-bedinghaus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Years Eve 2015]]></title>
@@ -15,17 +15,10 @@
         </item>
         <item>
             <title><![CDATA[David]]></title>
-            <description><![CDATA[<article><h1>David</h1><p>Welcome to my kitchen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e65cf0f745cc0c4b7be8a0669b908e52fcb70254.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>David</h1><p>Welcome to my kitchen</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fec1999943b60e652969222c8f1580cfc621ddde.jpg"></article>]]></description>
             <link>https://thegrid.ai/david-bedinghaus/david/index.html</link>
             <guid isPermaLink="false">2a1c7632-2eee-4174-bccb-0748a3fecd4a</guid>
             <pubDate>Wed, 27 Jan 2016 14:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc4e333-67b0-4bec-8af3-cf617f60286b.png">]]></description>
-            <link>https://thegrid.ai/david-bedinghaus/4f66951b-a401-4c04-a6ee-ebb15118d390/index.html</link>
-            <guid isPermaLink="false">4f66951b-a401-4c04-a6ee-ebb15118d390</guid>
-            <pubDate>Wed, 06 Jan 2016 12:31:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
