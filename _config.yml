@@ -1,6 +1,6 @@
 name: David Bedinghaus
 favicon: null
-layout_spectrum: 0.25361
+layout_spectrum: 0
 typography_spectrum: 0.49902
 title: My Life
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9d9d9d'
     - '#4d4d4d'
     - '#d9d9d9'
-  brandStrength: 0.375
+  brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.46938369097188115
   rhythmicContrast: 0.1308763457927853
